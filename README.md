@@ -59,17 +59,17 @@ This dashboard addresses these challenges by providing a **centralized, interact
 
 ### Overview & KPI Summary
 
-![Dashboard Overview](screens/img1.jpg)
-![Sales KPIs](screens/img2.jpg)
+![Dashboard Overview](screens/img1.png)
+![Sales KPIs](screens/img2.png)
 
 ### Sales & Profit Analysis
 
-![Sales Trend](screens/img3.jpg)
-![Profit Analysis](screens/img4.jpg)
+![Sales Trend](screens/img3.png)
+![Profit Analysis](screens/img4.png)
 
 ### Category & Product Insights
 
-![Category Performance](screens/img5.jpg)
+![Category Performance](screens/img5.png)
 ![Product Analysis](screens/img6.jpg)
 
 ### Regional & Time-Based Insights
