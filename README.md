@@ -69,6 +69,7 @@ This dashboard addresses these challenges by providing a **centralized, interact
 
 ### Category & Product Insights
 
+
 ![Category Performance](screens/img5.png)
 <!-- ![Product Analysis](screens/img6.jpg)
 
